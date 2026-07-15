@@ -1,4 +1,4 @@
-## Hi there 👋, My name is SHUHAS
+## Hi there 👋, My name is SUHAS
 ---
 ### A passionate developer, Opensource contributer 
 ---
