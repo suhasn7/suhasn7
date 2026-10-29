@@ -1,6 +1,5 @@
 
-# 💫 About Me:
-Hi,👋 I'm Suhas N
+# Hello,👋 I'm Suhas N 
 I'm a student and beginner 
 
 
